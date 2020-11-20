@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: src/Task1.java
+  visible: true
+  text: |
+    public class Task1 {
+        public static void main(String[] args) {
+
+        }
+    }
+  learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

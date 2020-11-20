@@ -1,0 +1,75 @@
+type: edu
+files:
+- name: src/Task.java
+  visible: true
+  placeholders:
+  - offset: 256
+    length: 11
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 256
+    initialized_from_dependency: false
+    selected: true
+    status: Unchecked
+    encrypted_possible_answer: new Task("Jon", "Snow", 23, "To protect the Wall");
+  - offset: 321
+    length: 14
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 323
+    initialized_from_dependency: false
+    selected: true
+    status: Unchecked
+    encrypted_possible_answer: |2-
+       public Task(String name, String surname, int age, String description) {
+              this.name = name;
+              this.surname = surname;
+              this.age = age;
+              this.description = description;
+          }
+  text: |-
+    import com.sun.imageio.plugins.jpeg.JPEGImageReaderResources;
+
+    public class Task {
+        private String name;
+        private String surname;
+        private int age;
+        private String description;
+
+
+        public static void main(String[] args) {
+            Task task = /* TODO */
+
+            System.out.println(task.toString());
+        }
+
+       /* TODO */
+
+        @Override
+        public String toString() {
+            return "My name is " + name + " " + surname + " I am " + age + " years old"
+                    + "I learn Java because " + description;
+
+        }
+    }
+  learner_created: false
+- name: test/Tests.java
+  visible: false
+  text: |-
+    import org.junit.Assert;
+    import org.junit.Test;
+
+    public class Tests {
+      @Test
+      public void testSolution() {
+        // put your test here
+        Task task = new Task("name", "surname", 26, "I can");
+       Assert.assertEquals("My name is name surname I am 26 years old"
+               + "I learn Java because I can", task.toString());
+      }
+    }
+  learner_created: false
+status: Unchecked
+record: -1

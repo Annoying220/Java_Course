@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Course.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/Java_Course.lesson1-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task2/Java_Course.lesson1-task2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task3/Java_Course.lesson1-task3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task4/Java_Course.lesson1-task4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Course.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Course.util.test.iml" />
+    </modules>
+  </component>
+</project>
