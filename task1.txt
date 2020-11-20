@@ -1,0 +1,18 @@
+1) byte, short, int, long - целые числа
+char - символы
+float, double - Числа с плавающей точкой
+boolean - Логический
+
+Отличаются они размером (бит) и диапазоном.
+
+2) Помимо примитивных типов в java есть Ссылочные.
+К ним относятся: классы, интерфейсы, массивы.
+Так же у каждого примитивного типа есть класс-обертка:
+double - Double
+short - Short
+byte - Byte
+int - Integer
+long - Long
+char - Character
+float - Float
+boolean - Boolean
