@@ -14,7 +14,7 @@ files:
     status: Unchecked
     encrypted_possible_answer: new Task("Jon", "Snow", 23, "To protect the Wall");
   - offset: 321
-    length: 14
+    length: 16
     placeholder_text: /* TODO */
     initial_state:
       length: 10
