@@ -3,7 +3,7 @@ files:
 - name: src/Task.java
   visible: true
   placeholders:
-  - offset: 256
+  - offset: 223
     length: 11
     placeholder_text: /* TODO */
     initial_state:
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Unchecked
     encrypted_possible_answer: new Task("Jon", "Snow", 23, "To protect the Wall");
-  - offset: 321
-    length: 16
+  - offset: 287
+    length: 2
     placeholder_text: /* TODO */
     initial_state:
       length: 10

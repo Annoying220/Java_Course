@@ -1,10 +1,8 @@
-import com.sun.imageio.plugins.jpeg.JPEGImageReaderResources;
-
 public class Task {
-    private String name;
-    private String surname;
-    private int age;
-    private String description;
+    private String name="Artem";
+    private String surname="Yakovlenko";
+    private int age=28;
+    private String description="X_X";
 
 
     public static void main(String[] args) {
@@ -13,11 +11,11 @@ public class Task {
         System.out.println(task.toString());
     }
 
-   /* TODO */
-//
+
+
     @Override
     public String toString() {
-        return "My name is " + name + " " + surname + " I am " + age + " years old"
+        return "My name is " + name + " " + surname + " I am " + age + " years old "
                 + "I learn Java because " + description;
 
     }
